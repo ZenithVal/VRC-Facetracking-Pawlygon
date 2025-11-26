@@ -102,7 +102,7 @@ MonoBehaviour:
   - name: FT/v2/EyeLidRight
     valueType: 1
     saved: 0
-    defaultValue: 0
+    defaultValue: 0.75
     networkSynced: 0
   - name: OSCm/Binary/FT/v2/EyeLidRight1
     valueType: 2
