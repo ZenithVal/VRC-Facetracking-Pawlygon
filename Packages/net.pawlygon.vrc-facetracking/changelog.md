@@ -1,4 +1,7 @@
 # Changelog
+## [1.7.0] - 2025-08-02
+- Complete rework on OSCmooth generation. Should have better performance and Improved smoothing for remote users over 90 fps.
+
 ## [1.6.1] - 2025-08-02
 - Fix ARKit Prefab VRCFury error.
 

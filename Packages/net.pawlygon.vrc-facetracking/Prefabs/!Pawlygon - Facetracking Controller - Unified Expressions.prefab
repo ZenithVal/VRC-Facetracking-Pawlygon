@@ -48,7 +48,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.1241.0
+  vrcfuryVersion: 1.1278.0
   somethingIsBroken: 0
   config:
     features: []
@@ -66,17 +66,17 @@ MonoBehaviour:
             version: 1
             fileID: 0
             guid: 
-            id: 9633f793f4e23c645b722b5db7d61098|Packages/net.pawlygon.vrc-facetracking/Animators/Compiled/1.6/Unified
-              Expressions/FX - 1.6 - Pawlygon Face Tracking.controller
-            objRef: {fileID: 9100000, guid: 9633f793f4e23c645b722b5db7d61098, type: 2}
+            id: c3eff0feef9c01e4798baf342be30c40|Packages/net.pawlygon.vrc-facetracking/Animators/Compiled/1.7/Unified
+              Expressions/FX 1.7 - Pawlygon Face Tracking.controller
+            objRef: {fileID: 9100000, guid: c3eff0feef9c01e4798baf342be30c40, type: 2}
           type: 5
         - controller:
             version: 1
             fileID: 0
             guid: 
-            id: 8f47cb3d7a50f544db53a93add99130d|Packages/net.pawlygon.vrc-facetracking/Animators/Compiled/1.6/Unified
-              Expressions/Additive  1.6 - Pawlygon Eye Rotation.controller
-            objRef: {fileID: 9100000, guid: 8f47cb3d7a50f544db53a93add99130d, type: 2}
+            id: 4743af0f209455548af24487d25e25f2|Packages/net.pawlygon.vrc-facetracking/Animators/Compiled/1.7/Unified
+              Expressions/Additive  1.7 - Pawlygon Eye Rotation.controller
+            objRef: {fileID: 9100000, guid: 4743af0f209455548af24487d25e25f2, type: 2}
           type: 2
         menus:
         - menu:
@@ -92,9 +92,9 @@ MonoBehaviour:
             version: 1
             fileID: 0
             guid: 
-            id: 64fa2aef9b263544eaae0419fd7d0ae8|Packages/net.pawlygon.vrc-facetracking/Animators/Compiled/1.6/Unified
-              Expressions/Parameters- 1.6 - Pawlygon Face Tracking.asset
-            objRef: {fileID: 11400000, guid: 64fa2aef9b263544eaae0419fd7d0ae8, type: 2}
+            id: b240317af9fb7714c84cdf6d6c9bc2bc|Packages/net.pawlygon.vrc-facetracking/Animators/Compiled/1.7/Unified
+              Expressions/Parameters 1.7 - Pawlygon Face Tracking.asset
+            objRef: {fileID: 11400000, guid: b240317af9fb7714c84cdf6d6c9bc2bc, type: 2}
         smoothedPrms: []
         globalParams:
         - '*'
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.1241.0
+  vrcfuryVersion: 1.1278.0
   somethingIsBroken: 0
   config:
     features: []
@@ -177,7 +177,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.1241.0
+  vrcfuryVersion: 1.1278.0
   somethingIsBroken: 0
   config:
     features: []

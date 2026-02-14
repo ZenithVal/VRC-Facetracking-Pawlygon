@@ -39,21 +39,6 @@ MonoBehaviour:
     saved: 1
     defaultValue: 1
     networkSynced: 1
-  - name: Local/EyeTrackingSmoothness
-    valueType: 1
-    saved: 1
-    defaultValue: 0.2
-    networkSynced: 0
-  - name: Local/LipTrackingSmoothness
-    valueType: 1
-    saved: 1
-    defaultValue: 0.15
-    networkSynced: 0
-  - name: ResetSmoothness
-    valueType: 2
-    saved: 0
-    defaultValue: 0
-    networkSynced: 0
   - name: FT/v2/EyeLeftX
     valueType: 1
     saved: 0
